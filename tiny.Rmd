@@ -12,7 +12,7 @@ title: "glatos 2022"
 
 class: title-slide, center
 
-# Tagging the tiny:  Considerations for tagging small fish
+# Tagging the tiny:  Observations from tagging small fish
 
 </br>
 
@@ -74,7 +74,7 @@ class: left, top
 
 class: center, middle
 
-# Tales of tagging two "small fish" species...
+# Tales of tagging two "small" species...
 
 ---
 
@@ -254,7 +254,7 @@ class: top, center
 
 class: center, middle
 
-# Considerations for surgically implanting tags in small fish
+# Observations from surgically implanting tags in small fish
 
 ---
 
