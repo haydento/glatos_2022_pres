@@ -1,0 +1,322 @@
+---
+output:
+  xaringan::moon_reader:
+    css: ["default", "hygge", "tiny.css"]
+    self_contained: false
+    seal: false
+    nature:
+      ratio: "16:9"
+title: "glatos 2022"
+
+---
+
+class: title-slide, center
+
+# Tagging the tiny:  Considerations for tagging small fish
+
+</br>
+
+### Todd Hayden, Chris Holbrook, Darryl Hondorp
+
+<img src="images/RG.jpg" width="20%" height="20%"/>
+<img src="images/juv_cisco.jpg" width="20%" height="20%"/>
+
+</br>
+
+<img src="images/GLATOS_logo.jpg" width="20%" height="20%"/>
+---
+
+class: left, top
+
+## .center[Acknowledgements]
+
+.pull-left[.large[
+- Brad Buechel
+- Zac Wickert
+- Henry Thompson
+- Karen Slaght
+- Erick Larson
+- Roger Gorgon
+- Andrew Honsey
+- Tom Binder
+- Aaron Fisk
+]
+]
+.pull-right[.large[
+- USGS
+- GLFC
+- GLATOS
+- RAEON
+- USFWS
+- MSU
+]
+]
+
+<div class="flex2">
+  <img src="images/USGS_logo.png" width="16%" height="16%"/>
+  <img src="images/GLATOS_logo.jpg" width="16%" height="16%"/>
+  <img src="images/GLFC.png" width="8%" height="8%"/>
+  <img src="images/GLRI.jpg" width="23%" height="23%"/>
+  	</div>
+
+
+  
+<div class="flex2">
+  <img src="images/US-FWS-logo.png" width="8%" height="18%"/>
+   <img src="images/MSU.jpg" width="22%" height="22%"/> 
+  <img src="images/RAEONCrest_black.png" width="10%" height="10%"/>
+	</div>
+
+---
+
+class: center, middle
+
+# Tales of tagging two "small fish" species...
+
+---
+
+
+class: left, top
+
+.center[
+## Round goby (*Neogobius melanostomus*)
+]
+
+.pull-left[.large[
+- Invasive, movements unknown
+- Innovasea V4, V5 (180 kHz)
+- Goby size: 70 - 150 mm TL
+- Lab study objective: 
+  - Internal vs external, tag size
+  - Tagging negatively affected survival
+  - External tags- .red[high] shedding rates
+
+.center[
+<img src="images/v4_goby_tag.png" width="30%" height="30%"/>
+<img src="images/goby_internal_tag.png" width="50%" height="50%"/>
+]
+]
+]
+
+.pull-right[.center[
+
+<img src="images/goby_lab1.png" width="75%" height="75%"/>
+
+<img src="images/goby_surgery.png" width="50%" height="50%"/>
+
+]
+]
+---
+
+class: left, top
+
+.center[
+## Round goby field study
+]
+
+.left[.large[
+- Objectives:
+  - .grey[Identify factors affecting detection data quality/volume]
+  - .grey[Assess spatial scale of goby movement]
+  - .red[Did tagged fish survive?]
+  ]
+]
+
+.center[
+<img src="images/HBBS_study_site.png" width="40%" height="40%"/>
+<img src="images/goby_study_detailed.png" width="40%" height="40%"/>
+]
+
+---
+
+class: center, top
+
+## Round goby field results
+
+.center[
+<img src="images/field_goby_abacus.png" width="70%" height="70%"/>
+]
+
+---
+
+class: left, top
+
+.center[
+## Cisco (*Coregonus artedi*)
+]
+
+.pull-left[.large[
+- Goal
+  - Re-establish population in Saginaw Bay
+  - Stocking ongoing (juvenile)
+  - Movements? Survival? Predation?
+]
+.large[
+- Lab study - objective
+  - Estimate survival
+  - Determine appropriate tag size]
+.large[
+- Methods
+  - V5-1x (4.3mm x 5.7 mm x 12.7 mm)
+  - ~ 140-160 mm fish, Jordan River Fish Hatchery
+  - Trial conducted at HBBS
+  ]
+  ]
+  
+.pull-right[.center[
+<img src="images/juv_cisco.jpg" width="50%" height="50%"/>
+
+<img src="images/V5_tag_pic.jpg" width="30%" height="30%"/>
+]
+]
+
+---
+
+class: left, top
+
+.center[
+## Cisco Laboratory Study
+]
+
+.pull-left[.large[
+- Treatments
+    - Acoustic - V5 tag + PIT tag
+	- Control - no tags
+	- PIT - pit tag
+	- Sham- surgery + PIT tag
+]
+.large[
+- Results
+  .red[- Control and PIT groups - no mortality]
+  .red[- Sham and acoustic - 75% survival after 30 days]
+  .red[- dead fish- infection around sutures]
+]
+]
+
+.pull-right[.center[
+<img src="images/cisco_survival_lab.png" width="60%" height="60%"/>
+
+<img src="images/cisco_lab_mort_crop.png" width="70%" height="70%"/>
+]
+]
+
+---
+
+class: left, top
+
+.center[
+## Cisco - Saginaw Bay
+]
+.pull-left[
+.large[
+- Objectives
+  - Determine proportion of cisco that disperse > 4 km in 4 weeks
+  - Post-stocking survival
+  ]
+.large[
+- Methods
+  - V5D-1x tags (predation), N = 26
+  - Surgery ~ 2 weeks prior to release at Jordan River National Hatchery
+  - Length ~ 160 mm TL
+  - 5-0 mono suture
+  - TENS- immobilization for surgery
+  ]
+.large[
+- Results
+  - .red[Survival 100% to release (> 2 weeks, 3 hr truck)]
+  ] 
+]
+
+.pull-right[.center[
+
+```{r embeded, out.width='100%', out.height='100%', echo = FALSE}
+knitr::include_url('https://haydento.github.io/index.html')
+```
+]
+]
+
+---
+
+class: top, center
+
+## Cisco - Saginaw Bay
+
+<video width="45%" height="45%" controls loop>
+	<source src="images/juv_cisco.mp4" type="video/mp4">
+</video>
+
+
+---
+
+class: center, middle
+
+# Considerations for surgically implanting tags in small fish
+
+---
+
+class: left, top
+
+.center[
+## Observations from tagging round goby and juvenile cisco
+]
+
+.large[
+- Equipment
+  - Cradel
+  - Freshwater supply- low flow volume
+      - motor control
+      - peristalic pump
+	  ]
+  .large[
+  - Sutures
+    - Mono (absorbable, 5-0 reverse cut)
+	- Braided (absorbable)
+    - Non-absorbable
+	]
+	
+.center[	
+<img src="images/goby_surgery.png" width="25%" height="25%"/>
+]
+
+---
+
+class: left, top
+
+.center[
+## Observations from tagging round goby and juvenile cisco
+]
+
+.large[
+- Small fish =  small body cavities and little room for tags. Location of incision depends on morphology.  May need to adjust location of incision to find room for tag
+- Thin and fragile body wall.  Sutures can easily pull through tissue when secured
+ ]
+
+.center[
+<img src="images/sutured_goby.png" width="35%" height="35%"/>
+<img src="images/RG_sore.png" width="35%" height="35%"/>
+]
+---
+
+.center[
+## Observations from tagging round goby and juvenile cisco
+]
+
+.large[
+- Post-operative care
+ - Water quality
+ - Leave the fish alone! Resist handling fish to check on them
+ - Low tank density- don't hold too many fish in a tank
+ - Release fish as soon as swimming on own
+   - If holding fish after tagging 
+     - Mild salt bath to help control infection
+     - Keep tanks clean
+	]
+	
+.center[
+<img src="images/goby_in_tank.png" width="35%" height="35%"/>
+]
+
+
+
+
+
