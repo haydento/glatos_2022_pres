@@ -18,12 +18,15 @@ class: title-slide, center
 
 ### Todd Hayden, Chris Holbrook, Darryl Hondorp
 
-<img src="images/RG.jpg" width="20%" height="20%"/>
-<img src="images/juv_cisco.jpg" width="20%" height="20%"/>
+<!-- <img src="images/RG.jpg" width="27%" height="27%"/> -->
+<!-- <img src="images/juv_cisco.jpg" width="20%" height="20%"/> -->
+
+<img src="images/RG.jpg" width=auto height="150px"/>
+<img src="images/juv_cisco.jpg" width=auto height="150px"/>
 
 </br>
 
-<img src="images/GLATOS_logo.jpg" width="20%" height="20%"/>
+<img src="images/GLATOS_logo.jpg" width="15%" height=auto/>
 ---
 
 class: left, top
@@ -187,16 +190,17 @@ class: left, top
 ]
 .large[
 - Results
-  .red[- Control and PIT groups - no mortality]
-  .red[- Sham and acoustic - 75% survival after 30 days]
-  .red[- dead fish- infection around sutures]
+  - Control and PIT groups - .red[no mortality]
+  - Sham and acoustic - .red[75% survival after 30 days]
+  - dead fish- .red[infection around sutures]
+- .large[.red[All fish (N = 120) held in 1 - 2m tank]]
 ]
 ]
 
 .pull-right[.center[
-<img src="images/cisco_survival_lab.png" width="60%" height="60%"/>
+<img src="images/cisco_survival_lab.png" width="70%" height="70%"/>
 
-<img src="images/cisco_lab_mort_crop.png" width="70%" height="70%"/>
+<img src="images/cisco_lab_mort_crop.png" width="60%" height="60%"/>
 ]
 ]
 
@@ -219,7 +223,7 @@ class: left, top
   - Surgery ~ 2 weeks prior to release at Jordan River National Hatchery
   - Length ~ 160 mm TL
   - 5-0 mono suture
-  - TENS- immobilization for surgery
+  - TENS- immobilization
   ]
 .large[
 - Results
@@ -263,15 +267,14 @@ class: left, top
 .large[
 - Equipment
   - Cradel
-  - Freshwater supply- low flow volume
-      - motor control
-      - peristalic pump
+  - Freshwater supply- low volume
+      - Motor control
+      - Peristaltic pump
 	  ]
   .large[
   - Sutures
     - Mono (absorbable, 5-0 reverse cut)
-	- Braided (absorbable)
-    - Non-absorbable
+	- Braided (absorbable)- "Saw?", promote bacteria?
 	]
 	
 .center[	
@@ -287,8 +290,8 @@ class: left, top
 ]
 
 .large[
-- Small fish =  small body cavities and little room for tags. Location of incision depends on morphology.  May need to adjust location of incision to find room for tag
-- Thin and fragile body wall.  Sutures can easily pull through tissue when secured
+- Small fish =  small body cavity. Location of incision depends on morphology and space to implant tag.
+- Thin and fragile body wall.  Sutures can easily pull through tissue when secured.  More sutures, low tension
  ]
 
 .center[
@@ -304,12 +307,11 @@ class: left, top
 .large[
 - Post-operative care
  - Water quality
- - Leave the fish alone! Resist handling fish to check on them
- - Low tank density- don't hold too many fish in a tank
+ - Handling stress and tank stress = decreased survival
+ - Low tank density- don't crowd
  - Release fish as soon as swimming on own
    - If holding fish after tagging 
-     - Mild salt bath to help control infection
-     - Keep tanks clean
+     - Consider mild salt bath (0.25%) to help control infection
 	]
 	
 .center[

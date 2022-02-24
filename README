@@ -1,0 +1,9 @@
+Notes from developing presentation with Xarigan
+- When hosting presentation via github pages, the option to create a self-contained presentation must be TRUE to make sure both the local and github hosted pages are the same.  For some reason, when self_contained = FALSE, the local version looks great but the formatting associated with multiple columns is lost.
+
+- All figures must be pushed up to github repository.  git-lfs does not support pages.  This means some care must be taken to prevent excessive file size warnings and issues with github.  The file size increases dramatically when using the "self_contained = TRUE" setting as well.
+
+- Web browsers cache webpages so making changes on the hosted website may not be visible because the browser is displaying an old version of the webpage.  This can be fixed by turning off the cache behavior of the webpage.  See links for turning off cache in firefox and google chrome.
+
+https://support.mozilla.org/en-US/questions/905902
+https://www.technipages.com/google-chrome-how-to-completely-disable-cache
