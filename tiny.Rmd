@@ -16,7 +16,7 @@ class: title-slide, center
 
 </br>
 
-### Todd Hayden, Chris Holbrook, Darryl Hondorp
+### Todd Hayden, Darryl Hondorp, Chris Holbrook
 
 <!-- <img src="images/RG.jpg" width="27%" height="27%"/> -->
 <!-- <img src="images/juv_cisco.jpg" width="20%" height="20%"/> -->
@@ -43,6 +43,8 @@ class: left, top
 - Andrew Honsey
 - Tom Binder
 - Aaron Fisk
+- Max Becker
+- Dave Fielder
 ]
 ]
 .pull-right[.large[
@@ -52,29 +54,30 @@ class: left, top
 - RAEON
 - USFWS
 - MSU
+- MDNR
 ]
 ]
 
 <div class="flex2">
-  <img src="images/USGS_logo.png" width="16%" height="16%"/>
-  <img src="images/GLATOS_logo.jpg" width="16%" height="16%"/>
-  <img src="images/GLFC.png" width="8%" height="8%"/>
-  <img src="images/GLRI.jpg" width="23%" height="23%"/>
+  <img src="images/USGS_logo.png" width="14%" height="14%"/>
+  <img src="images/GLATOS_logo.jpg" width="14%" height="14%"/>
+  <img src="images/GLFC.png" width="6%" height="6%"/>
+  <img src="images/GLRI.jpg" width="20%" height="20%"/>
   	</div>
 
 
   
 <div class="flex2">
-  <img src="images/US-FWS-logo.png" width="8%" height="18%"/>
-   <img src="images/MSU.jpg" width="22%" height="22%"/> 
-  <img src="images/RAEONCrest_black.png" width="10%" height="10%"/>
+  <img src="images/US-FWS-logo.png" width="6%" height="6%"/>
+   <img src="images/MSU.jpg" width="20%" height="20%"/> 
+  <img src="images/RAEONCrest_black.png" width="8%" height="8%"/>
 	</div>
 
 ---
 
 class: center, middle
 
-# Tales of tagging two "small" species...
+# Tales of tagging two "small" fishes...
 
 ---
 
@@ -86,26 +89,28 @@ class: left, top
 ]
 
 .pull-left[.large[
-- Invasive, movements unknown
-- Innovasea V4, V5 (180 kHz)
-- Goby size: 70 - 150 mm TL
-- Lab study objective: 
+- Invasive (1990), movements unknown
+- Objective: 
   - Internal vs external, tag size
+- Methods:
+  - Baited minnow traps
+  - TENS
+  - Innovasea V4, V5 (180 kHz)
+  - Goby size: 70 - 150 mm TL
+  - 5-0 sutures
+- Results
   - Tagging negatively affected survival
   - External tags- .red[high] shedding rates
-
-.center[
-<img src="images/v4_goby_tag.png" width="30%" height="30%"/>
-<img src="images/goby_internal_tag.png" width="50%" height="50%"/>
-]
 ]
 ]
 
 .pull-right[.center[
 
-<img src="images/goby_lab1.png" width="75%" height="75%"/>
+<img src="images/goby_lab1.png" width="60%" height=auto/>
 
-<img src="images/goby_surgery.png" width="50%" height="50%"/>
+<img src="images/goby_surgery.png" width="30%" height=auto/>
+
+<img src="images/v4_goby_tag.png" width="20%" height=auto/>
 
 ]
 ]
@@ -114,7 +119,7 @@ class: left, top
 class: left, top
 
 .center[
-## Round goby field study
+## Round goby
 ]
 
 .left[.large[
@@ -134,7 +139,7 @@ class: left, top
 
 class: center, top
 
-## Round goby field results
+## Round goby - results
 
 .center[
 <img src="images/field_goby_abacus.png" width="70%" height="70%"/>
@@ -149,20 +154,16 @@ class: left, top
 ]
 
 .pull-left[.large[
-- Goal
-  - Re-establish population in Saginaw Bay
-  - Stocking ongoing (juvenile)
-  - Movements? Survival? Predation?
-]
-.large[
-- Lab study - objective
-  - Estimate survival
-  - Determine appropriate tag size]
-.large[
-- Methods
-  - V5-1x (4.3mm x 5.7 mm x 12.7 mm)
-  - ~ 140-160 mm fish, Jordan River Fish Hatchery
-  - Trial conducted at HBBS
+- Objective:
+  - Survival, tag effect
+- Methods:
+  - Hatchery-reared cisco, JRNFH
+  - TENS
+  - Innovasea V5 (4.3mm x 5.7 mm x 12.7 mm)
+  - PIT tag- 8 mm x 1.4 mm
+  - ~140 mm
+  - 5-0, 3/8 Reverse cut, 13 mm
+  - HBBS wet lab
   ]
   ]
   
@@ -182,18 +183,16 @@ class: left, top
 ]
 
 .pull-left[.large[
-- Treatments
-    - Acoustic - V5 tag + PIT tag
+- Treatments (N = 30)
+    - Acoustic - V5 tag + PIT tag 
 	- Control - no tags
 	- PIT - pit tag
 	- Sham- surgery + PIT tag
-]
-.large[
 - Results
-  - Control and PIT groups - .red[no mortality]
-  - Sham and acoustic - .red[75% survival after 30 days]
-  - dead fish- .red[infection around sutures]
-- .large[.red[All fish (N = 120) held in 1 - 2m tank]]
+  - Control and PIT groups - 100% survival
+  - Sham and acoustic - 75% survival, 30 days
+  - dead fish- .infection around sutures
+- .large[All fish held in 1 - 2 m tank]
 ]
 ]
 
@@ -214,20 +213,17 @@ class: left, top
 .pull-left[
 .large[
 - Objectives
-  - Determine proportion of cisco that disperse > 4 km in 4 weeks
-  - Post-stocking survival
-  ]
-.large[
+  - Spatio-temporal movement patterns
+  - Survival and predation
 - Methods
+  - ~160 mm TL
   - V5D-1x tags (predation), N = 26
-  - Surgery ~ 2 weeks prior to release at Jordan River National Hatchery
-  - Length ~ 160 mm TL
-  - 5-0 mono suture
-  - TENS- immobilization
-  ]
-.large[
+  - Surgery ~ 2 weeks prior to release
+  - TENS
+  - 5-0 mono, 3/8 circle reverse cut, 13 mm
+  - Released October 9, 2021
 - Results
-  - .red[Survival 100% to release (> 2 weeks, 3 hr truck)]
+  - .red[100% survival]
   ] 
 ]
 
@@ -245,7 +241,14 @@ class: top, center
 
 ## Cisco - Saginaw Bay
 
-<video width="45%" height="45%" controls loop>
+.left[.large[
+- 7 tags broadcast predation code (73% survival, 15 days)
+- Most left in 5-6 days
+- No fish returned (active October-December)
+]
+]
+
+<video width="38%" height=auto controls loop>
 	<source src="images/juv_cisco.mp4" type="video/mp4">
 </video>
 
@@ -264,21 +267,23 @@ class: left, top
 ## Observations from tagging round goby and juvenile cisco
 ]
 
-.large[
-- Equipment
-  - Cradel
-  - Freshwater supply- low volume
-      - Motor control
+.pull-left[.large[
+- Downsize equipment
+  - Cradel, measure, TENS electrodes
+  - Low volume Freshwater supply
+      - DC motor control
       - Peristaltic pump
-	  ]
-  .large[
-  - Sutures
-    - Mono (absorbable, 5-0 reverse cut)
-	- Braided (absorbable)- "Saw?", promote bacteria?
+  - Lighting
+  - Sutures- mono or braided?
+	- Braided is more pliable, tighter knots
+	- Each suture material requires specific technique
+	- .bold[.purple[Purple]] suture improves visibility
 	]
+		]
 	
-.center[	
-<img src="images/goby_surgery.png" width="25%" height="25%"/>
+.pull-right[.center[	
+<img src="images/goby_surgery.png" width="80%" height=auto/>
+]
 ]
 
 ---
@@ -291,12 +296,15 @@ class: left, top
 
 .large[
 - Small fish =  small body cavity. Location of incision depends on morphology and space to implant tag.
-- Thin and fragile body wall.  Sutures can easily pull through tissue when secured.  More sutures, low tension
+- Thin and fragile body wall.  Sutures can easily pull through tissue when secured.
+- Needle shape- short and curved needle- hard to follow head of needle with rest of needle, causes "tearout".
+- Fine motor skills are more important with small fish
+  - Targeted regions are small
  ]
 
 .center[
-<img src="images/sutured_goby.png" width="35%" height="35%"/>
-<img src="images/RG_sore.png" width="35%" height="35%"/>
+<img src="images/sutured_goby.png" width="30%" height=auto/>
+<img src="images/RG_sore.png" width="30%" height=auto/>
 ]
 ---
 
@@ -308,10 +316,10 @@ class: left, top
 - Post-operative care
  - Water quality
  - Handling stress and tank stress = decreased survival
- - Low tank density- don't crowd
- - Release fish as soon as swimming on own
-   - If holding fish after tagging 
-     - Consider mild salt bath (0.25%) to help control infection
+     - Low tank density
+     - Minimize handling
+	 - Consider mild salt bath (~0.25%) to help control infection
+ - Release fish as soon as swimming 
 	]
 	
 .center[
